@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TempConversion</string>
+    <string name="degF">°F</string>
+    <string name="degC">°C</string>
+</resources>
